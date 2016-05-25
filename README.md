@@ -1,4 +1,4 @@
-# PC-repair-shop
+# PC-repair-shop (2~3 hours)
 <img src='https://github.com/kosomi/PC-repair-shop/blob/master/image.png'>
 
 1. Express PCrepair 기본설치
